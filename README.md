@@ -1,4 +1,3 @@
-SCU-IT-History-and-Evolution-Course
-===================================
+#IT History and Evolution
 
-The Sichuan University open source course IT History and Evolution
+This is a open source course started by Sichuan University.
